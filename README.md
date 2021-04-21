@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jalilrzq
 - 👀 I’m interested in web developer and Machine Learning
-- 🌱 I’m currently learning on Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning on Javascriot
+- 💞️ I’m looking to collaborate on project web or android mobile
 - 📫 How to reach me ...
 
 <!---
